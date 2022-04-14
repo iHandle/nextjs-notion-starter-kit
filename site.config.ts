@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Jane❤️iHandle',
+  name: 'Jane & iHandle',
   domain: 'jane.ihandle.top',
-  author: 'Jane❤️iHandle',
+  author: 'Jane & iHandle',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
